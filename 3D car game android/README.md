@@ -7,5 +7,6 @@ Some screenshots:
 <img src = "images/gameplay.png" >
 <img src = "images/gameplay1.png" >
 <img src = "images/gameplay2.png" >
+<img src = "images/gameplay3.png" >
 <img src = "images/editor workspace.png" >
 <img src = "images/editor workspace1.png" >
